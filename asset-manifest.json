@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RahimiLab/static/css/main.5f361e03.chunk.css",
-    "main.js": "/RahimiLab/static/js/main.eea54e9c.chunk.js",
-    "main.js.map": "/RahimiLab/static/js/main.eea54e9c.chunk.js.map",
-    "runtime-main.js": "/RahimiLab/static/js/runtime-main.e8af2d93.js",
-    "runtime-main.js.map": "/RahimiLab/static/js/runtime-main.e8af2d93.js.map",
-    "static/js/2.cfaabe25.chunk.js": "/RahimiLab/static/js/2.cfaabe25.chunk.js",
-    "static/js/2.cfaabe25.chunk.js.map": "/RahimiLab/static/js/2.cfaabe25.chunk.js.map",
-    "index.html": "/RahimiLab/index.html",
-    "precache-manifest.f404418e32cfbafc687f64a7a2b2f082.js": "/RahimiLab/precache-manifest.f404418e32cfbafc687f64a7a2b2f082.js",
-    "service-worker.js": "/RahimiLab/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/RahimiLab/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cfaabe25.chunk.js.LICENSE.txt": "/RahimiLab/static/js/2.cfaabe25.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/RahimiLab/static/media/logo.5d5d9eef.svg"
+    "main.css": "/RahimisLab/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RahimisLab/static/js/main.a5fddc67.chunk.js",
+    "main.js.map": "/RahimisLab/static/js/main.a5fddc67.chunk.js.map",
+    "runtime-main.js": "/RahimisLab/static/js/runtime-main.20c6e0a0.js",
+    "runtime-main.js.map": "/RahimisLab/static/js/runtime-main.20c6e0a0.js.map",
+    "static/js/2.cfaabe25.chunk.js": "/RahimisLab/static/js/2.cfaabe25.chunk.js",
+    "static/js/2.cfaabe25.chunk.js.map": "/RahimisLab/static/js/2.cfaabe25.chunk.js.map",
+    "index.html": "/RahimisLab/index.html",
+    "precache-manifest.8853d37f109917aa64176b86a0315147.js": "/RahimisLab/precache-manifest.8853d37f109917aa64176b86a0315147.js",
+    "service-worker.js": "/RahimisLab/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RahimisLab/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cfaabe25.chunk.js.LICENSE.txt": "/RahimisLab/static/js/2.cfaabe25.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RahimisLab/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8af2d93.js",
+    "static/js/runtime-main.20c6e0a0.js",
     "static/js/2.cfaabe25.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eea54e9c.chunk.js"
+    "static/js/main.a5fddc67.chunk.js"
   ]
 }
